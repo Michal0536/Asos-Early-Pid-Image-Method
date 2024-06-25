@@ -28,7 +28,7 @@ This Python tool scrapes product images from a given range of product IDs and us
 
 2. **Run the script:**
    ```bash
-   python your_script_name.py
+   python earlyPid.py
    ```
    - The script will process each product ID, scrape the image, and use a pre-trained TensorFlow model to analyze it.
 
