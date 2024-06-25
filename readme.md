@@ -11,8 +11,8 @@ This Python tool scrapes product images from a given range of product IDs and us
 
 1. **Clone the repository:**
    ```bash
-   git clone https://your-repository-url
-   cd your-project-directory
+   git clone https://github.com/Michal0536/Asos-Early-Pid-Image-Method
+   cd Asos-Early-Pid-Image-Method
    ```
 
 2. **Install dependencies:**
